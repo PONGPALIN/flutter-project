@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\phet-\franchise_pos_mobile\build\windows\CMakeFiles\487e30c6c233dddc10682e66f38af915\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9688D706-5615-3FE9-96A4-9F433F487CDD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

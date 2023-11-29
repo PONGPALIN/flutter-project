@@ -1,0 +1,41 @@
+2023/05/17-08:04:08.582 6f1c Reusing MANIFEST C:\Users\phet-\AppData\Local\Temp\flutter_tools.7092ef28\flutter_tools_chrome_device.771b0bb0\Default\Sync Data\LevelDB/MANIFEST-000001
+2023/05/17-08:04:08.583 6f1c Recovering log #62
+2023/05/17-08:04:08.585 6f1c Reusing old log C:\Users\phet-\AppData\Local\Temp\flutter_tools.7092ef28\flutter_tools_chrome_device.771b0bb0\Default\Sync Data\LevelDB/000062.log 
+2023/05/17-08:04:08.585 6f1c Delete type=0 #3
+2023/05/17-08:04:08.585 6f1c Delete type=0 #4
+2023/05/17-08:04:08.585 6f1c Delete type=0 #7
+2023/05/17-08:04:08.585 6f1c Delete type=2 #8
+2023/05/17-08:04:08.585 6f1c Delete type=2 #11
+2023/05/17-08:04:08.585 6f1c Delete type=0 #12
+2023/05/17-08:04:08.585 6f1c Delete type=2 #13
+2023/05/17-08:04:08.586 6f1c Delete type=0 #15
+2023/05/17-08:04:08.586 6f1c Delete type=2 #16
+2023/05/17-08:04:08.586 6f1c Delete type=2 #20
+2023/05/17-08:04:08.586 6f1c Delete type=2 #22
+2023/05/17-08:04:08.586 6f1c Delete type=0 #23
+2023/05/17-08:04:08.586 6f1c Delete type=2 #24
+2023/05/17-08:04:08.586 6f1c Delete type=0 #26
+2023/05/17-08:04:08.586 6f1c Delete type=2 #27
+2023/05/17-08:04:08.586 6f1c Delete type=0 #29
+2023/05/17-08:04:08.586 6f1c Delete type=2 #30
+2023/05/17-08:04:08.586 6f1c Delete type=2 #31
+2023/05/17-08:04:08.586 6f1c Delete type=0 #31
+2023/05/17-08:04:08.586 6f1c Delete type=2 #32
+2023/05/17-08:04:08.586 6f1c Delete type=0 #34
+2023/05/17-08:04:08.586 6f1c Delete type=2 #35
+2023/05/17-08:04:08.586 6f1c Delete type=2 #41
+2023/05/17-08:04:08.586 6f1c Delete type=2 #43
+2023/05/17-08:04:08.586 6f1c Delete type=0 #44
+2023/05/17-08:04:08.586 6f1c Delete type=2 #45
+2023/05/17-08:04:08.586 6f1c Delete type=0 #47
+2023/05/17-08:04:08.586 6f1c Delete type=2 #48
+2023/05/17-08:04:08.586 6f1c Delete type=0 #50
+2023/05/17-08:04:08.586 6f1c Delete type=2 #52
+2023/05/17-08:04:08.586 6f1c Delete type=0 #54
+2023/05/17-08:04:08.586 6f1c Delete type=2 #55
+2023/05/17-08:04:08.586 6f1c Delete type=2 #58
+2023/05/17-08:04:08.586 6f1c Delete type=0 #59
+2023/05/17-08:04:08.586 6f1c Delete type=2 #60
+2023/05/17-08:04:35.224 9864 Level-0 table #67: started
+2023/05/17-08:04:35.227 9864 Level-0 table #67: 56069 bytes OK
+2023/05/17-08:04:35.228 9864 Delete type=0 #62

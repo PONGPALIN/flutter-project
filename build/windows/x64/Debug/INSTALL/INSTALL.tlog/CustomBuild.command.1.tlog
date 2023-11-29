@@ -1,0 +1,10 @@
+^C:\USERS\PHET-\FRANCHISE_POS_MOBILE\BUILD\WINDOWS\CMAKEFILES\09589FDF3C5139819782AD8B32925EBB\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
